@@ -1,7 +1,7 @@
 hei geir
 glemte en lilnje her
 Git Hub Foundations
-Github and git foundations
+Github &amp; git foundations
 
-Men hva skal egentlig komme her??
+Men hva should egentlig komme her??
 
